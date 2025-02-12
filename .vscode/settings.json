@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "semaphore": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "d:\\mingw64\\bin\\g++.exe"
+}
